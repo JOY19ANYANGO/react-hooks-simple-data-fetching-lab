@@ -1,7 +1,6 @@
 // create your App component here
 
-import React, { useEffect, useState } from 'react';
-import"./ind.css"
+import React, { useEffect, useState } from 'react'
 
 function App() {
   const [image, setImage] = useState(null)
